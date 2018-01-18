@@ -1,0 +1,1 @@
+# multi-error-misspellings.github.io
